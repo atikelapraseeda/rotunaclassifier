@@ -22,7 +22,7 @@ const String GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY_HERE';
 
 With your actual API key:
 ```dart
-const String GEMINI_API_KEY = 'AIzaXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
+const String GEMINI_API_KEY = '';
 ```
 
 **⚠️ Security Warning:** Never commit your API key to version control. Consider using environment variables or a local configuration file that's in `.gitignore`.
