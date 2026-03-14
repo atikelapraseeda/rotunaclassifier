@@ -5,4 +5,4 @@
 /// 2. Replace 'YOUR_GEMINI_API_KEY_HERE' with your actual API key
 /// 3. Keep this key secure - don't commit it to version control!
 
-const String GEMINI_API_KEY = 'AIzaSyCnMBg2xIJHZ7ezj9jnbMXEpT4yyW7lkJc';
+const String GEMINI_API_KEY = '';
